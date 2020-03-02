@@ -1,11 +1,31 @@
-1. Oracle WebLogic Server 12.2.1.3 With Admin Server
-Oracle is committed to enabling you to embrace cloud computing by providing greater choice and flexibility in how you deploy Oracle software. In support of that commitment, Oracle has created several ready-to-deploy Azure applications in the Azure Marketplace that include pre-installed Oracle software. You can use this application to create a virtual machine with pre-installed JDK and Oracle WebLogic Server 12.2.1.3.0 with an Administration Server in your Azure environment and run your applications on Oracle software.
+Oracle WebLogic Server is the world’s first cloud native, enterprise Java platform application server for developing and deploying multitier distributed enterprise applications. Azure WebLogic Server offers enable you to embrace cloud computing by providing greater choice and flexibility for WebLogic migration, lift and shift of your Java EE applications to Azure Cloud with smallest effort and biggest impact. The offers free you from resource stuff by provisioning network, storage and Linux resource, setting up load balancing, security and logging, which allows you start your great business quickly.  
 
-2.Oracle WebLogic Server 12.2.1.3 Single Node
-Oracle is committed to enabling you to embrace cloud computing by providing greater choice and flexibility in how you deploy Oracle software. In support of that commitment, Oracle has created several ready-to-deploy Azure applications include pre-installed Oracle software. You can use this application to ceate a virtual machine with pre-installed JDK and Oracle WebLogic Server 12.2.1.3.0 without an Administration Server in your Azure environment and run your applications on Oracle software.
+There are four offers available to meet your different scenarios, Single Node with Admin Server, Single Node without Admin Server, Cluster and Dynamic Cluster.
+Those offers are  **Bring-Your-Own-License** that assumes you have already procured the appropriate licenses with Oracle and are properly licensed to run this offer in Microsoft Azure.  
 
-3. Oracle WebLogic Server 12.2.1.3 Cluster
-Oracle is committed to enabling you to embrace cloud computing by providing greater choice and flexibility in how you deploy Oracle software. In support of that commitment, Oracle has created several ready-to-deploy Azure applications that include pre-installed Oracle software. You can use this application to create multiple virtual machines with highly available WebLogic Server cluster configuration in your Azure environment and run your applications on Oracle software. The application will create the Administration Server on one VM and cluster members on other VMs. Administration Server and all managed servers are started by default when the provisioning Administration Server and NodeManager are started as systemd services. CrashRecoveryEnabled is set to true for the NodeManager, servers are restarted automatically after a VM reboot.
+If you want to work with us, just hit the **CONTACT ME** button, the engineers are always there!
 
-4. Oracle WebLogic Server 12.2.1.3 Dynamic Cluster
-Oracle is committed to enabling you to embrace cloud computing by providing greater choice and flexibility in how you deploy Oracle software. In support of that commitment, Oracle has created several ready-to-deploy Azure applications that include pre-installed Oracle software. You can use this application to create multiple virtual machines with highly available WebLogic Server dynamic cluster configuration in your Azure environment and run your applications on Oracle software. The application will create the Administration Server on one VM and managed servers in a dynamic cluster on the other nodes.
+## Oracle WebLogic Server 12c With Admin Server  
+This offer provisions a single virtual machine and installs Oracle WebLogic Server 12c on it. It creates a domain and starts up the Administration Server, which allows you to manage the domain with a browser. Get it from [here](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/oracle.20191009-arm-oraclelinux-wls-admin), please refer to the [guide](https://docs.oracle.com/en/middleware/fusion-middleware/weblogic-server/12.2.1.4/wlazu/get-started-oracle-weblogic-server-microsoft-azure-iaas.html#GUID-E0B24A45-F496-4509-858E-103F5EBF67A7).  
+
+## Oracle WebLogic Server 12c Single Node  
+This offer provisions a single virtual machine and installs Oracle WebLogic Server 12c on it. It does not create a domain or start the Administration Server, which is useful for scenarios with highly customized domain configuration. Get it from [here](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/oracle.20191001-arm-oraclelinux-wls), please refer to the [guide](https://docs.oracle.com/en/middleware/fusion-middleware/weblogic-server/12.2.1.4/wlazu/get-started-oracle-weblogic-server-microsoft-azure-iaas.html#GUID-E0B24A45-F496-4509-858E-103F5EBF67A7).  
+
+## Oracle WebLogic Server 12c Cluster  
+This offer creates a highly available cluster of Oracle WebLogic Server 12c virtual machines. Administration Server and all managed servers are started by default, which allow you to manage the domain with a browser. Get it from [here](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/oracle.20191007-arm-oraclelinux-wls-cluster), please refer to the [guide](https://docs.oracle.com/en/middleware/fusion-middleware/weblogic-server/12.2.1.4/wlazu/get-started-oracle-weblogic-server-microsoft-azure-iaas.html#GUID-E0B24A45-F496-4509-858E-103F5EBF67A7).  
+
+## Oracle WebLogic Server 12c Dynamic Cluster  
+This offer creates a highly available and scalable dynamic cluster of Oracle WebLogic Server 12c virtual machines. Administration Server and all managed servers are started by default, which allow you to manage the domain with a browser. Get it from [here](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/oracle.20191021-arm-oraclelinux-wls-dynamic-cluster), please refer to the [guide](https://docs.oracle.com/en/middleware/fusion-middleware/weblogic-server/12.2.1.4/wlazu/get-started-oracle-weblogic-server-microsoft-azure-iaas.html#GUID-E0B24A45-F496-4509-858E-103F5EBF67A7).  
+
+## Useful Links  
+[Release Notes](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3TJ30)  
+[Overview](https://www.oracle.com/middleware/weblogic/)  
+[Learn More](https://www.oracle.com/middleware/technologies/weblogic.html)  
+[Documentation](https://docs.oracle.com/middleware/12213/wls/index.html)  
+[What's New](https://docs.oracle.com/middleware/12213/wls/NOTES/toc.htm) 
+
+[![Video WebLogic Server on Azure IaaS](pictures/clusterdomain.png)](https://youtu.be/m7evI4lObcI "WebLogic Server on Azure IaaS - Click to Watch!")
+
+
+
+
