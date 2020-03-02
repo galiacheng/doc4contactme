@@ -11,4 +11,4 @@ This offer is  **Bring-Your-Own-License** that assumes you have already procured
 [Documentation](https://docs.oracle.com/middleware/12213/wls/index.html)  
 [What's New](https://docs.oracle.com/middleware/12213/wls/NOTES/toc.htm)
 
-[![WebLogic Server on Azure IaaS](pictures/admindomain.png) "WebLogic Server Administration Console"]
+![WebLogic Server on Azure IaaS](https://github.com/galiacheng/doc4contactme/blob/master/pictures/admindomain.png) "WebLogic Server Administration Console"

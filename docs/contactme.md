@@ -24,7 +24,7 @@ This offer creates a highly available and scalable dynamic cluster of Oracle Web
 [Documentation](https://docs.oracle.com/middleware/12213/wls/index.html)  
 [What's New](https://docs.oracle.com/middleware/12213/wls/NOTES/toc.htm) 
 
-[![Video WebLogic Server on Azure IaaS](pictures/clusterdomain.png)](https://youtu.be/m7evI4lObcI "WebLogic Server on Azure IaaS - Click to Watch!")
+[![Video WebLogic Server on Azure IaaS](https://github.com/galiacheng/doc4contactme/blob/master/pictures/clusterdomain.png)](https://youtu.be/m7evI4lObcI "WebLogic Server on Azure IaaS - Click to Watch!")
 
 
 
