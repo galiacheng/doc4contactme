@@ -25,8 +25,7 @@ This offer creates a highly available and scalable dynamic cluster of Oracle Web
 [Oracle WebLogic Server Single Node](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/oracle.20191001-arm-oraclelinux-wls)  
 [Oracle WebLogic Server With Admin Server](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/oracle.20191009-arm-oraclelinux-wls-admin)  
 [Oracle WebLogic Server Cluster](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/oracle.20191007-arm-oraclelinux-wls-cluster)  
-[Oracle WebLogic Server Dynamic Cluster](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/oracle.20191021-arm-oraclelinux-wls-dynamic-cluster)  
-  
+[Oracle WebLogic Server Dynamic Cluster](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/oracle.20191021-arm-oraclelinux-wls-dynamic-cluster)    
 [Weblogic Documentation](https://docs.oracle.com/middleware/12213/wls/index.html)  
 [Weblogic Offer Documentation](https://docs.oracle.com/en/middleware/fusion-middleware/weblogic-server/12.2.1.4/wlazu/get-started-oracle-weblogic-server-microsoft-azure-iaas.html#GUID-E0B24A45-F496-4509-858E-103F5EBF67A7)  
 [Learn More](https://www.oracle.com/middleware/technologies/weblogic.html)  
