@@ -27,7 +27,7 @@ This offer creates a highly available and scalable dynamic cluster of Oracle Web
 [Overview](https://www.oracle.com/middleware/weblogic/)  
 [Learn More](https://www.oracle.com/middleware/technologies/weblogic.html)  
 [Weblogic Documentation](https://docs.oracle.com/middleware/12213/wls/index.html)  
-[Weblogic Offer Documentation](https://docs.oracle.com/en/middleware/fusion-middleware/weblogic-server/12.2.1.4/wlazu/get-started-oracle-weblogic-server-microsoft-azure-iaas.html#GUID-E0B24A45-F496-4509-858E-103F5EBF67A7)
+[Weblogic Offer Documentation](https://docs.oracle.com/en/middleware/fusion-middleware/weblogic-server/12.2.1.4/wlazu/get-started-oracle-weblogic-server-microsoft-azure-iaas.html#GUID-E0B24A45-F496-4509-858E-103F5EBF67A7)  
 [What's New](https://docs.oracle.com/middleware/12213/wls/NOTES/toc.htm) 
 
 [![Video WebLogic Server on Azure IaaS](https://github.com/galiacheng/doc4contactme/blob/master/pictures/clusterdomain.png)](https://youtu.be/m7evI4lObcI "WebLogic Server on Azure IaaS - Click to Watch!")
