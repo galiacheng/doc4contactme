@@ -1,6 +1,6 @@
 Oracle WebLogic Server is the world’s first cloud native, enterprise Java platform application server for developing and deploying multitier distributed enterprise applications. Azure WebLogic Server offers enable you to embrace cloud computing by providing greater choice and flexibility for WebLogic migration including lift and shift of your Java EE applications to Azure Cloud with the smallest effort and biggest impact. The offers empower you to start your business applications quickly by automatically provisioning virtual network, storage and Linux resources, installing WebLogic Server, setting up security with a network security group and easing database connectivity. Features such as load balancing, caching, monitoring and integrating with Azure Active Directory are coming soon!
 
-There are four offers available to meet different scenarios: single node without an admin server, single node with an admin server, cluster and dynamic cluster. Links to the offer are available from Useful Links, you can access the offer with a click.
+There are four offers available to meet different scenarios: single node without an admin server, single node with an admin server, cluster and dynamic cluster. Links to the offers are available from Useful Links, please click to access the offer if you want to have a try.
 
 These offers are  **Bring-Your-Own-License**. They assume you have already procured the appropriate licenses with Oracle and are properly licensed to run offers in Microsoft Azure.
 
